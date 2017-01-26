@@ -1,0 +1,20 @@
+.state_upd{
+    cursor: hand;
+    color: #CDBA96;
+}
+.state_save{
+    cursor: hand;
+    color: #CDBA96;
+    display: none;
+}
+.state_input{
+    display: none;
+}
+.state_cancel{
+    cursor: hand;
+    color: #CDBA96;
+    display: none;
+}
+#statement_upd{
+
+}
